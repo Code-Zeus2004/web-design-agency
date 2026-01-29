@@ -33,5 +33,12 @@ footer {
   width: 45%;
 }
 .right{
-  display: inline-block;
+  float: right;
+}
+.left{
+  float: left;
+}
+
+.creative {
+  color: midnightblue;
 }
